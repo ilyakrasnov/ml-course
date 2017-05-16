@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resolutionData</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>Logistic Regression Report.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516655716.48272902</real>
+				<key>version</key>
+				<dict>
+					<key>3a7fa14d211284acfa6ad4c4126cf701eadea17ca9b823dd39b473ce02c146f0</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>Logistic Regression Report.md</string>
+		</array>
+	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>3a7fa14d211284acfa6ad4c4126cf701eadea17ca9b823dd39b473ce02c146f0</key>
+			<integer>4</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
